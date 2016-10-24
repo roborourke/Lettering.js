@@ -6,9 +6,7 @@
 * Released under the WTFPL license
 * http://sam.zoy.org/wtfpl/
 *
-* Thanks to Paul Irish - http://paulirish.com - for the feedback.
-*
-* Regexified, classinated, configurablised & deloopified by Robert O'Rourke - http://sanchothefat.com
+* Thanks to Paul Irish - http://paulirish.com - for the feedback
 *
 * Date: Tue Apr 5 10:00:00 2011
 */
